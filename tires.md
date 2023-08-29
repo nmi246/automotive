@@ -5,13 +5,12 @@
 
 
 ## Tire codes
-180 = the 180 designates the tire’s width in millimeters, measured in a straight line through the tire from one edge of the tire’s tread to the other.
+**180** = the 180 designates the tire’s width in millimeters, measured in a straight line through the tire from one edge of the tire’s tread to the other.
+**65** = The second number, 65, is a bit trickier to understand. This represents the aspect ratio between the tire’s width and its height; or how tall a tire is in relationship to its width. Simply put, the higher this number is, the taller the tire will be. In this case, the tire is 65 percent as tall as its width.
 
-65 = The second number, 65, is a bit trickier to understand. This represents the aspect ratio between the tire’s width and its height; or how tall a tire is in relationship to its width. Simply put, the higher this number is, the taller the tire will be. In this case, the tire is 65 percent as tall as its width.
+**16** = The last number, 16, is the tire’s rim diameter expressed in inches.
 
-16 = The last number, 16, is the tire’s rim diameter expressed in inches.
-
-The letter(s) after the aspect ratio, in our case a “B”, indicate speed rating and/or tire construction. If there are two letters after the aspect ratio, the first will be speed rating and the second will be tire construction. The “B” stands for Bias Belted.  You might see an “R” for Radial or a “D” for diagonal bias.
+The letter(s) after the aspect ratio, in our case a “**B**”, indicate speed rating and/or tire construction. If there are two letters after the aspect ratio, the first will be speed rating and the second will be tire construction. The “B” stands for Bias Belted.  You might see an “**R**” for Radial or a “D” for diagonal bias.
 ![image](https://github.com/nmi246/automotive/assets/42329930/a4320e01-011c-4fa4-8435-7a980a48bc2b)
 
 
